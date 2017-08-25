@@ -10,5 +10,5 @@ To get the skill setup properly, you will need a Particle Photon IoT microcontro
 	* Connect the +5V pin on the NeoPixels to the 3v3 pin on the Photon
 	* Connect the GND pin on the NeoPixels to the GND pin on the Photon
 3. Open the Particle Dev IDE and make sure your Photon is detected and selected in the list of devices in the toolstrip on the bottom of the IDE.
-4. Open the *.ino file in this GitHub repo and click the lightning bolt icon in the left panel to compile and flash the Photon. For more help getting your device selected and flashing the photon.
+4. Open the *.ino file in this GitHub repo and click the lightning bolt icon in the left panel to compile and flash the Photon. For more help getting your device selected and flashing the photon refer to [this link](https://docs.particle.io/guide/tools-and-features/dev/).
 5. Your done! Try saying: "Alexa, tell Particle Light to turn on" 
