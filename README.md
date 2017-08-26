@@ -1,5 +1,5 @@
 # Moody-Bed-Alexa-Skill
-This repository contains code and instruction for using the Moody Bed Alexa Skill.
+This repository contains code and instructions for using the Moody Bed Alexa Skill.
 
 ## Hardware Setup
 
